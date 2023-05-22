@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: f2b6dda45fbfd4840aa2cc7678081941, type: 3}
+    - {fileID: 2800000, guid: 31d9ada5a310d4906970d63ed6f03148, type: 3}
+    - {fileID: 2800000, guid: c3948e32c8add4859b5d7c8ee777a661, type: 3}
+    - {fileID: 2800000, guid: f001e934c1bdf44988a5e540e149351f, type: 3}
+    - {fileID: 2800000, guid: b337edc4a2aa23a45a1874d2bc33f85d, type: 3}
+    - {fileID: 2800000, guid: 661fd1b16fd554660aaea64d68cba2d8, type: 3}
+    - {fileID: 2800000, guid: 4a7b6823f7f4545be88a1ab28208eacb, type: 3}
+    - {fileID: 2800000, guid: 7e9a9f2f3214c4d98aa0bbc28f29ca2f, type: 3}
+    - {fileID: 2800000, guid: 19ab3485656931942bc888976ea79a88, type: 3}
+    - {fileID: 2800000, guid: 9ab3b84666449184badb1eb6cf8b6fc7, type: 3}
+    - {fileID: 2800000, guid: 2de5b0a0cd4cb8747ba8617fb33ef498, type: 3}
+    - {fileID: 2800000, guid: fbd3c9a35da83484e902e75fde9e2a49, type: 3}
+    - {fileID: 2800000, guid: 953f5232423181c4588088e0725d8bfb, type: 3}
+    - {fileID: 2800000, guid: 826abd135bb005440b7f5d0d288abcbd, type: 3}
+    - {fileID: 2800000, guid: 09825276d5d29fb44b1aa9a20aafe16d, type: 3}
+    - {fileID: 2800000, guid: e7287705f0d9fe843843a00d176b3696, type: 3}
+    - {fileID: 2800000, guid: 7817a2ce3b994e84d88ea3aae195994a, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 2de5b0a0cd4cb8747ba8617fb33ef498, type: 3}
+  - {fileID: 21300000, guid: 661fd1b16fd554660aaea64d68cba2d8, type: 3}
+  - {fileID: 21300000, guid: 953f5232423181c4588088e0725d8bfb, type: 3}
+  - {fileID: 21300000, guid: c3948e32c8add4859b5d7c8ee777a661, type: 3}
+  - {fileID: 21300000, guid: 826abd135bb005440b7f5d0d288abcbd, type: 3}
+  - {fileID: 21300000, guid: 4a7b6823f7f4545be88a1ab28208eacb, type: 3}
+  - {fileID: 21300000, guid: fbd3c9a35da83484e902e75fde9e2a49, type: 3}
+  - {fileID: 21300000, guid: f001e934c1bdf44988a5e540e149351f, type: 3}
+  - {fileID: 21300000, guid: f2b6dda45fbfd4840aa2cc7678081941, type: 3}
+  - {fileID: 21300000, guid: b337edc4a2aa23a45a1874d2bc33f85d, type: 3}
+  - {fileID: 21300000, guid: e7287705f0d9fe843843a00d176b3696, type: 3}
+  - {fileID: 21300000, guid: 19ab3485656931942bc888976ea79a88, type: 3}
+  - {fileID: 21300000, guid: 31d9ada5a310d4906970d63ed6f03148, type: 3}
+  - {fileID: 21300000, guid: 9ab3b84666449184badb1eb6cf8b6fc7, type: 3}
+  - {fileID: 21300000, guid: 09825276d5d29fb44b1aa9a20aafe16d, type: 3}
+  - {fileID: 21300000, guid: 7817a2ce3b994e84d88ea3aae195994a, type: 3}
+  - {fileID: 21300000, guid: 7e9a9f2f3214c4d98aa0bbc28f29ca2f, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Ad Wheel
+  - vibrate 1
+  - Band White
+  - mute
+  - play
+  - vibrate
+  - Button Rectangle Large Green
+  - RoundedRectange
+  - glow4
+  - star_outlined_colored
+  - cool
+  - Settings White
+  - glowdollar
+  - Ad Wheel Arrow
+  - bigsmile
+  - drool
+  - volume
+  m_RenderDataMap: {}
+  m_Tag: atlas
+  m_IsVariant: 0
